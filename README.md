@@ -1,8 +1,8 @@
 ## Hi there! I'm Xavier.
-[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MongeSemNome&show_icons=true&theme=transparent\&rank_icon=github)](https://github.com/MongeSemNome/github-readme-stats)
+
 
 - 🔭 Front-End Developer
-- 🌱 Laravel | PHP | Jquery | Bootstrap5 
+- 🌱 Frontend Developer | Bootstrap5 | Javascript | Jquery | CSS | PHP | Laravel | Tech Support | AML | KYC | TM
 - 💬 Ask me about D&D
 - 📫 How to reach me: gamelitico@gmail.com
 
